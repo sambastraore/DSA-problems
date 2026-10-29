@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// I find this one really elegant !!!
 public class ParetoFrontier {
     static class Point {
         int x, y;
